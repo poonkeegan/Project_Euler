@@ -1,6 +1,6 @@
-package Palindrome;
+package eulerQuestions;
 
-public class Main {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		int greatest = 0;

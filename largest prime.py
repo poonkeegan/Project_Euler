@@ -1,3 +1,4 @@
+#algorithm almost entirely taken from http://en.wikibooks.org/wiki/Efficient_Prime_Number_Generating_Algorithms
 pp=2
 ps=[pp]
 pp+=1
